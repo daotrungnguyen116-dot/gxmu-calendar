@@ -1,0 +1,30 @@
+
+name: Generate Exam Calendar
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate ICS
+        run: python exampreparation26winter.py
+
+      - name: Upload ICS file
+        uses: actions/upload-artifact@v4
+        with:
+          name: exam-preparation-calendar
+          path: exam_preparation_2026_2027.ics

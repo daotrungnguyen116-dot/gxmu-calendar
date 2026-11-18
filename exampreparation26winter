@@ -1,0 +1,392 @@
+from datetime import date, datetime, timedelta, timezone
+from pathlib import Path
+
+# ==========================================
+# EXAM PREPARATION CALENDAR 2026–2027
+# Timezone: Asia/Shanghai (UTC+8)
+# All study events are ALL-DAY and TRANSPARENT
+# ==========================================
+
+OUTPUT_FILE = "exam_preparation_2026_2027.ics"
+
+SUBJECTS = {
+    "局解": "Giải phẫu vùng",
+    "病生": "Sinh lý bệnh",
+    "药理": "Dược lý",
+    "流行病": "Dịch tễ",
+    "寄生虫": "Ký sinh trùng",
+    "生化": "Sinh hoá",
+    "医患沟通": "Giao tiếp bệnh nhân",
+}
+
+# Each entry: date -> [(subject, target hours), ...]
+
+schedule = {}
+
+
+def add_day(day, subjects):
+    schedule[date.fromisoformat(day)] = subjects
+
+
+# ------------------------------------------
+# PHASE 1: 19/11–22/11
+# ------------------------------------------
+
+add_day("2026-11-19", [
+    ("病生", 2), ("流行病", 1), ("医患沟通", 1)
+])
+
+add_day("2026-11-20", [
+    ("局解", 2), ("病生", 2), ("生化", 1), ("医患沟通", 1)
+])
+
+add_day("2026-11-21", [
+    ("药理", 2), ("生化", 2), ("寄生虫", 2), ("流行病", 1)
+])
+
+add_day("2026-11-22", [
+    ("局解", 2), ("病生", 1), ("药理", 1),
+    ("生化", 1), ("寄生虫", 1), ("流行病", 1)
+])
+
+
+# ------------------------------------------
+# PHASE 1: WEEKLY REPEATING PLAN
+# 23/11–16/12
+# ------------------------------------------
+
+weekly_plan = {
+    0: [  # Monday
+        ("局解", 2), ("生化", 2)
+    ],
+    1: [  # Tuesday
+        ("病生", 2), ("药理", 2)
+    ],
+    2: [  # Wednesday
+        ("局解", 2), ("寄生虫", 2)
+    ],
+    3: [  # Thursday
+        ("病生", 2), ("流行病", 1), ("医患沟通", 1)
+    ],
+    4: [  # Friday
+        ("局解", 2), ("病生", 2),
+        ("生化", 1), ("医患沟通", 1)
+    ],
+    5: [  # Saturday
+        ("药理", 2), ("生化", 2),
+        ("寄生虫", 2), ("流行病", 1)
+    ],
+    6: [  # Sunday
+        ("局解", 2), ("病生", 1), ("药理", 1),
+        ("生化", 1), ("寄生虫", 1), ("流行病", 1)
+    ],
+}
+
+current = date(2026, 11, 23)
+last_weekly_day = date(2026, 12, 16)
+
+while current <= last_weekly_day:
+    schedule[current] = weekly_plan[current.weekday()]
+    current += timedelta(days=1)
+
+
+# ------------------------------------------
+# PHASE 2: 17/12–23/12
+# Intensive review before first exams
+# ------------------------------------------
+
+add_day("2026-12-17", [
+    ("局解", 3), ("病生", 3), ("药理", 1), ("生化", 1)
+])
+
+add_day("2026-12-18", [
+    ("局解", 3), ("病生", 3), ("生化", 1), ("寄生虫", 1)
+])
+
+add_day("2026-12-19", [
+    ("局解", 3), ("病生", 3), ("药理", 1), ("寄生虫", 1)
+])
+
+add_day("2026-12-20", [
+    ("局解", 3), ("病生", 3), ("流行病", 1), ("生化", 1)
+])
+
+add_day("2026-12-21", [
+    ("局解", 3), ("病生", 3), ("药理", 1), ("生化", 1)
+])
+
+add_day("2026-12-22", [
+    ("局解", 4), ("病生", 3), ("流行病", 1)
+])
+
+add_day("2026-12-23", [
+    ("局解", 4), ("病生", 3), ("药理", 1)
+])
+
+
+# ------------------------------------------
+# EXAM DAYS: 24/12–25/12
+# ------------------------------------------
+
+add_day("2026-12-24", [
+    ("局解", 1.5)
+])
+
+add_day("2026-12-25", [
+    ("病生", 1.5)
+])
+
+
+# ------------------------------------------
+# PHASE 3: 26/12–03/01
+# ------------------------------------------
+
+add_day("2026-12-26", [
+    ("药理", 3), ("生化", 2), ("寄生虫", 2), ("医患沟通", 1)
+])
+
+add_day("2026-12-27", [
+    ("药理", 2), ("流行病", 2), ("生化", 2),
+    ("寄生虫", 1), ("医患沟通", 1)
+])
+
+add_day("2026-12-28", [
+    ("药理", 3), ("流行病", 2), ("生化", 2), ("寄生虫", 1)
+])
+
+add_day("2026-12-29", [
+    ("药理", 3), ("寄生虫", 2), ("生化", 2), ("医患沟通", 1)
+])
+
+add_day("2026-12-30", [
+    ("药理", 3), ("流行病", 2), ("生化", 2), ("寄生虫", 1)
+])
+
+add_day("2026-12-31", [
+    ("药理", 3), ("流行病", 2), ("生化", 2), ("医患沟通", 1)
+])
+
+add_day("2027-01-01", [
+    ("药理", 3), ("生化", 2), ("寄生虫", 2), ("医患沟通", 1)
+])
+
+add_day("2027-01-02", [
+    ("药理", 3), ("流行病", 2), ("生化", 2), ("寄生虫", 1)
+])
+
+add_day("2027-01-03", [
+    ("药理", 3), ("流行病", 2), ("生化", 1),
+    ("寄生虫", 1), ("医患沟通", 1)
+])
+
+
+# ------------------------------------------
+# PHASE 4: 04/01–07/01
+# ------------------------------------------
+
+add_day("2027-01-04", [
+    ("流行病", 1.5)
+])
+
+add_day("2027-01-05", [
+    ("流行病", 1.5)
+])
+
+add_day("2027-01-06", [
+    ("生化", 4), ("寄生虫", 3), ("医患沟通", 1)
+])
+
+add_day("2027-01-07", [
+    ("寄生虫", 3), ("生化", 3), ("医患沟通", 2)
+])
+
+
+# ==========================================
+# CONFIRMED EXAM DATES
+# ==========================================
+
+exams = [
+    {
+        "date": date(2026, 12, 24),
+        "subject": "局解",
+        "session": "Buổi tối",
+    },
+    {
+        "date": date(2026, 12, 25),
+        "subject": "病生",
+        "session": "Buổi chiều",
+    },
+    {
+        "date": date(2027, 1, 4),
+        "subject": "药理",
+        "session": "Buổi sáng",
+    },
+    {
+        "date": date(2027, 1, 5),
+        "subject": "流行病",
+        "session": "Buổi tối",
+    },
+]
+
+
+# ==========================================
+# ICS GENERATOR
+# ==========================================
+
+def escape_ics(text):
+    """Escape special characters for ICS text fields."""
+    return (
+        str(text)
+        .replace("\\", "\\\\")
+        .replace(";", "\\;")
+        .replace(",", "\\,")
+        .replace("\n", "\\n")
+    )
+
+
+def format_hours(hours):
+    """Format hours without unnecessary decimal zeros."""
+    if float(hours).is_integer():
+        return str(int(hours))
+    return str(hours).replace(".", ",")
+
+
+def fold_line(line):
+    """
+    Fold long ICS lines according to RFC 5545.
+    Continuation lines begin with one space.
+    """
+    result = []
+    current_line = ""
+    current_bytes = 0
+
+    for char in line:
+        char_bytes = len(char.encode("utf-8"))
+
+        if current_bytes + char_bytes > 73:
+            result.append(current_line)
+            current_line = " " + char
+            current_bytes = 1 + char_bytes
+        else:
+            current_line += char
+            current_bytes += char_bytes
+
+    result.append(current_line)
+    return "\r\n".join(result)
+
+
+def make_event(uid, event_date, summary, description, categories):
+    start = event_date.strftime("%Y%m%d")
+    end = (event_date + timedelta(days=1)).strftime("%Y%m%d")
+
+    now = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+    lines = [
+        "BEGIN:VEVENT",
+        f"UID:{uid}",
+        f"DTSTAMP:{now}",
+        f"DTSTART;VALUE=DATE:{start}",
+        f"DTEND;VALUE=DATE:{end}",
+        f"SUMMARY:{escape_ics(summary)}",
+        f"DESCRIPTION:{escape_ics(description)}",
+        f"CATEGORIES:{escape_ics(categories)}",
+        "TRANSP:TRANSPARENT",
+        "STATUS:CONFIRMED",
+        "END:VEVENT",
+    ]
+
+    return "\r\n".join(fold_line(line) for line in lines)
+
+
+def generate_ics():
+    events = []
+
+    # Study target events
+    for event_date, subjects in sorted(schedule.items()):
+        for subject, hours in subjects:
+            subject_name = SUBJECTS[subject]
+            hour_text = format_hours(hours)
+
+            summary = f"📚 {subject} | Study target: {hour_text}h"
+
+            description = (
+                f"Môn học: {subject_name} ({subject})\n"
+                f"Mục tiêu tự học: {hour_text} giờ\n"
+                "Đây là mục tiêu thời lượng, không có giờ học cố định.\n"
+                "Có thể linh hoạt sắp xếp cùng lịch dạy thêm và tập gym."
+            )
+
+            uid = (
+                f"study-{subject}-"
+                f"{event_date.strftime('%Y%m%d')}@exam-preparation"
+            )
+
+            events.append(
+                make_event(
+                    uid,
+                    event_date,
+                    summary,
+                    description,
+                    f"Study,{subject}",
+                )
+            )
+
+    # Confirmed exam events
+    for exam in exams:
+        subject = exam["subject"]
+        subject_name = SUBJECTS[subject]
+        exam_date = exam["date"]
+        session = exam["session"]
+
+        summary = f"🎓 EXAM | {subject} – {subject_name}"
+
+        description = (
+            f"Kỳ thi: {subject_name} ({subject})\n"
+            f"Ngày thi: {exam_date.strftime('%d/%m/%Y')}\n"
+            f"Buổi thi: {session}\n"
+            "Thời gian cụ thể chưa được cung cấp."
+        )
+
+        uid = (
+            f"exam-{subject}-"
+            f"{exam_date.strftime('%Y%m%d')}@exam-preparation"
+        )
+
+        events.append(
+            make_event(
+                uid,
+                exam_date,
+                summary,
+                description,
+                f"Exam,{subject}",
+            )
+        )
+
+    calendar_lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        "PRODID:-//Exam Preparation//Nguyen//VI",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        "X-WR-CALNAME:Exam Preparation 2026-2027",
+        "X-WR-CALDESC:Study targets and confirmed exam dates",
+        *events,
+        "END:VCALENDAR",
+    ]
+
+    content = "\r\n".join(calendar_lines) + "\r\n"
+
+    output_path = Path(OUTPUT_FILE)
+    output_path.write_text(content, encoding="utf-8", newline="")
+
+    print("=" * 50)
+    print("ICS calendar created successfully!")
+    print(f"File: {output_path.resolve()}")
+    print(f"Study events: {sum(len(v) for v in schedule.values())}")
+    print(f"Confirmed exams: {len(exams)}")
+    print(f"Study days: {len(schedule)}")
+    print("=" * 50)
+
+
+if __name__ == "__main__":
+    generate_ics()

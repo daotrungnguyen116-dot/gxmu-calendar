@@ -21,7 +21,7 @@ jobs:
           python-version: "3.12"
 
       - name: Generate ICS
-        run: python exampreparation26winter.py
+        run: python exampreparation26winter
 
       - name: Upload ICS file
         uses: actions/upload-artifact@v4

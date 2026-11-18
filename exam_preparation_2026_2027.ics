@@ -1,0 +1,2383 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Exam Preparation//Nguyen//VI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exam Preparation 2026-2027
+X-WR-CALDESC:Study targets and confirmed exam dates
+BEGIN:VEVENT
+UID:study-病生-20261119@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261119@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261119@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261120@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261120@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261120@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261120@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261121@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:📚 药理 | Study target: 2h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 2 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261121@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261121@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261121@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261122@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261122@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:📚 病生 | Study target: 1h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261122@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:📚 药理 | Study target: 1h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 1 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261122@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261122@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261122@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261123@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261123@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261124@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261124@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:📚 药理 | Study target: 2h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 2 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261125@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261125@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261126@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261126@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261126@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261127@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261127@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261127@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261127@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261128@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:📚 药理 | Study target: 2h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 2 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261128@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261128@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261128@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261129@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261129@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:📚 病生 | Study target: 1h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261129@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:📚 药理 | Study target: 1h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 1 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261129@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261129@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261129@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261130@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261130@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261201@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261201@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:📚 药理 | Study target: 2h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 2 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261202@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261202@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261203@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261203@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261203@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261204@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261204@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261204@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261204@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261205@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:📚 药理 | Study target: 2h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 2 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261205@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261205@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261205@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261206@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261206@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:📚 病生 | Study target: 1h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261206@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:📚 药理 | Study target: 1h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 1 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261206@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261206@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261206@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261207@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261207@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261208@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261208@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:📚 药理 | Study target: 2h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 2 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261209@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261209@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261210@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261210@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261210@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261211@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261211@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261211@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261211@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261212@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:📚 药理 | Study target: 2h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 2 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261212@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261212@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261212@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261213@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261213@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:📚 病生 | Study target: 1h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261213@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:📚 药理 | Study target: 1h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 1 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261213@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261213@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261213@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261214@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261214@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261215@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:📚 病生 | Study target: 2h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261215@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:📚 药理 | Study target: 2h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 2 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261216@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:📚 局解 | Study target: 2h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261216@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261217@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:📚 局解 | Study target: 3h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 3 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261217@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:📚 病生 | Study target: 3h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  3 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261217@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:📚 药理 | Study target: 1h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 1 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261217@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261218@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:📚 局解 | Study target: 3h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 3 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261218@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:📚 病生 | Study target: 3h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  3 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261218@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261218@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261219@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:📚 局解 | Study target: 3h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 3 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261219@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:📚 病生 | Study target: 3h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  3 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261219@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:📚 药理 | Study target: 1h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 1 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261219@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261220@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:📚 局解 | Study target: 3h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 3 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261220@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:📚 病生 | Study target: 3h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  3 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261220@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261220@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261221@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:📚 局解 | Study target: 3h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 3 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261221@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:📚 病生 | Study target: 3h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  3 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261221@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:📚 药理 | Study target: 1h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 1 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261221@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261222@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:📚 局解 | Study target: 4h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 4 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261222@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:📚 病生 | Study target: 3h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  3 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261222@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:📚 流行病 | Study target: 1h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261223@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:📚 局解 | Study target: 4h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 4 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261223@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:📚 病生 | Study target: 3h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  3 giờ\nĐây là mục tiêu thời lượng\, không có giờ học
+  cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy th
+ êm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261223@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:📚 药理 | Study target: 1h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 1 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-局解-20261224@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:📚 局解 | Study target: 1\,5h
+DESCRIPTION:Môn học: Giải phẫu vùng (局解)\nMục tiêu tự h
+ ọc: 1\,5 giờ\nĐây là mục tiêu thời lượng\, không có gi
+ ờ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch 
+ dạy thêm và tập gym.
+CATEGORIES:Study\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-病生-20261225@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:📚 病生 | Study target: 1\,5h
+DESCRIPTION:Môn học: Sinh lý bệnh (病生)\nMục tiêu tự học:
+  1\,5 giờ\nĐây là mục tiêu thời lượng\, không có giờ h
+ ọc cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy
+  thêm và tập gym.
+CATEGORIES:Study\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261226@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:📚 药理 | Study target: 3h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 3 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261226@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261226@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261226@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261227@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:📚 药理 | Study target: 2h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 2 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261227@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:📚 流行病 | Study target: 2h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261227@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261227@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261227@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261228@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:📚 药理 | Study target: 3h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 3 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261228@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:📚 流行病 | Study target: 2h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261228@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261228@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261229@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:📚 药理 | Study target: 3h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 3 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261229@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261229@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261229@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261230@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:📚 药理 | Study target: 3h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 3 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261230@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:📚 流行病 | Study target: 2h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261230@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20261230@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20261231@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:📚 药理 | Study target: 3h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 3 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20261231@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:📚 流行病 | Study target: 2h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20261231@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20261231@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20270101@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:📚 药理 | Study target: 3h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 3 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20270101@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20270101@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:📚 寄生虫 | Study target: 2h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20270101@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20270102@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:📚 药理 | Study target: 3h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 3 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20270102@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:📚 流行病 | Study target: 2h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20270102@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:📚 生化 | Study target: 2h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 2 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20270102@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-药理-20270103@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:📚 药理 | Study target: 3h
+DESCRIPTION:Môn học: Dược lý (药理)\nMục tiêu tự học: 3 g
+ iờ\nĐây là mục tiêu thời lượng\, không có giờ học c
+ ố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm
+  và tập gym.
+CATEGORIES:Study\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20270103@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:📚 流行病 | Study target: 2h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 2 giờ\nĐây là mục tiêu thời lượng\, không có giờ học 
+ cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thê
+ m và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20270103@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:📚 生化 | Study target: 1h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 1 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20270103@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:📚 寄生虫 | Study target: 1h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 1 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20270103@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20270104@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:📚 流行病 | Study target: 1\,5h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1\,5 giờ\nĐây là mục tiêu thời lượng\, không có giờ h
+ ọc cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy
+  thêm và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-流行病-20270105@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:📚 流行病 | Study target: 1\,5h
+DESCRIPTION:Môn học: Dịch tễ (流行病)\nMục tiêu tự học: 
+ 1\,5 giờ\nĐây là mục tiêu thời lượng\, không có giờ h
+ ọc cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạy
+  thêm và tập gym.
+CATEGORIES:Study\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20270106@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:📚 生化 | Study target: 4h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 4 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20270106@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:📚 寄生虫 | Study target: 3h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 3 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20270106@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:📚 医患沟通 | Study target: 1h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 1 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-寄生虫-20270107@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:📚 寄生虫 | Study target: 3h
+DESCRIPTION:Môn học: Ký sinh trùng (寄生虫)\nMục tiêu tự h
+ ọc: 3 giờ\nĐây là mục tiêu thời lượng\, không có giờ 
+ học cố định.\nCó thể linh hoạt sắp xếp cùng lịch dạ
+ y thêm và tập gym.
+CATEGORIES:Study\,寄生虫
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-生化-20270107@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:📚 生化 | Study target: 3h
+DESCRIPTION:Môn học: Sinh hoá (生化)\nMục tiêu tự học: 3 gi
+ ờ\nĐây là mục tiêu thời lượng\, không có giờ học cố
+  định.\nCó thể linh hoạt sắp xếp cùng lịch dạy thêm v
+ à tập gym.
+CATEGORIES:Study\,生化
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:study-医患沟通-20270107@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:📚 医患沟通 | Study target: 2h
+DESCRIPTION:Môn học: Giao tiếp bệnh nhân (医患沟通)\nMục ti
+ êu tự học: 2 giờ\nĐây là mục tiêu thời lượng\, không 
+ có giờ học cố định.\nCó thể linh hoạt sắp xếp cùng l
+ ịch dạy thêm và tập gym.
+CATEGORIES:Study\,医患沟通
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-局解-20261224@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:🎓 EXAM | 局解 – Giải phẫu vùng
+DESCRIPTION:Kỳ thi: Giải phẫu vùng (局解)\nNgày thi: 24/12/2026
+ \nBuổi thi: Buổi tối\nThời gian cụ thể chưa được cung c
+ ấp.
+CATEGORIES:Exam\,局解
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-病生-20261225@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:🎓 EXAM | 病生 – Sinh lý bệnh
+DESCRIPTION:Kỳ thi: Sinh lý bệnh (病生)\nNgày thi: 25/12/2026\nBu
+ ổi thi: Buổi chiều\nThời gian cụ thể chưa được cung c
+ ấp.
+CATEGORIES:Exam\,病生
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-药理-20270104@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:🎓 EXAM | 药理 – Dược lý
+DESCRIPTION:Kỳ thi: Dược lý (药理)\nNgày thi: 04/01/2027\nBuổi
+  thi: Buổi sáng\nThời gian cụ thể chưa được cung cấp.
+CATEGORIES:Exam\,药理
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-流行病-20270105@exam-preparation
+DTSTAMP:20261118T114927Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:🎓 EXAM | 流行病 – Dịch tễ
+DESCRIPTION:Kỳ thi: Dịch tễ (流行病)\nNgày thi: 05/01/2027\nBu
+ ổi thi: Buổi tối\nThời gian cụ thể chưa được cung cấp
+ .
+CATEGORIES:Exam\,流行病
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
